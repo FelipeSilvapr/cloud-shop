@@ -10,8 +10,8 @@ import { ListProductComponent } from './components/list-product/list-product.com
 import { ProductItemComponent } from './components/product-item/product-item.component';
 import { AddCategoryComponent } from './components/add-category/add-category.component';
 import { AddProductComponent } from './components/add-product/add-product.component';
-import { HeaderComponent } from './components/layout/header/header/header.component';
-import { FooterComponent } from './components/layout/footer/footer/footer.component';
+import { HeaderComponent } from './components/layout/header/header.component';
+import { FooterComponent } from './components/layout/footer/footer.component';
 
 @NgModule({
   declarations: [

@@ -1,4 +1,74 @@
 {
-  "categories": [],
-  "products": []
+  "categories": [
+    {
+      "id": "1",
+      "description": "Notebooks"
+    },
+    {
+      "id": "2",
+      "description": "Mouses"
+    },
+    {
+      "id": "3",
+      "description": "Headsets"
+    }
+  ],
+  "products": [
+    {
+      "id": "5c14c9b3-1502-4e14-9443-e911be8ef3d6",
+      "title": "Notebook Acer",
+      "price": "2.600,00",
+      "category": "Notebooks",
+      "description": "Noteboke Acer Aspire 3 4GB RAM 1TB Intel Core I3"
+    },
+    {
+      "id": "12ec2780-9658-4a36-b570-162c74cbd813",
+      "title": "Notebook Lenovo",
+      "price": "3.499,00",
+      "category": "Notebooks",
+      "description": "Notebook Lenovo Ultrafino ideapad S145 i5-1035G1 8GB 1TB Windows 10 15.6\" 82DJ0001BR Prata"
+    },
+    {
+      "id": "679b5a8c-82c5-43b1-829d-356cc5b23282",
+      "title": "Notebook Gamer Acer Nitro",
+      "price": "6.284,52",
+      "category": "Notebooks",
+      "description": "Notebook Gamer Acer Nitro 5 AN515-54-76V7 i7 16GB RAM 1TB+128SSD Placa GTX1650 4GB Endless"
+    },
+    {
+      "id": "67197429-1181-4975-9727-6d8b606b6953",
+      "title": "Mouse Logitech",
+      "price": "289,00",
+      "category": "Mouses",
+      "description": "Mouse Logitech Anywhere MX 2S Wireless Preto - 910-005132"
+    },
+    {
+      "id": "4fda9a05-1218-4138-b9fc-8eb8749b4d9a",
+      "title": "Mouse Sem Fio",
+      "price": "23,30",
+      "category": "Mouses",
+      "description": "Mouse Sem Fio 2.4 Ghz Usb Box Multilaser Preto - MO264"
+    },
+    {
+      "id": "59d967e3-f883-4b2c-9f81-7173b076fe46",
+      "title": "HYperX Gaming",
+      "price": "273,15",
+      "category": "Mouses",
+      "description": "HYperX Gaming Mouse Pulsefire Surge RGB"
+    },
+    {
+      "id": "45c5beb5-6f8f-432f-baae-03bf630147a1",
+      "title": "Fone Com Microfone Microsoft ",
+      "price": "254,90",
+      "category": "Headsets",
+      "description": "Fone Com Microfone Usb Preto Microsoft - JUG00013"
+    },
+    {
+      "id": "93cee3dd-257c-4f2a-96fe-b6cb3eb3e9c7",
+      "title": "HEADSET GAMER CLOUD CORE",
+      "price": "409,00",
+      "category": "Headsets",
+      "description": "HEADSET GAMER CLOUD CORE"
+    }
+  ]
 }

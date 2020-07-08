@@ -28,7 +28,7 @@ categories: Category[];
   }
 
   newCategory(){
-    this.router.navigate(['addCategory']);
+    this.router.navigate(['add-category']);
   }
 
   deleteCategory(category){

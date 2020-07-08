@@ -32,7 +32,7 @@ export class ListProductComponent implements OnInit {
   }
 
   newProduct(){
-    this.router.navigate(['addProduct']);
+    this.router.navigate(['add-product']);
   }
 
   deleteProduct(product){
