@@ -1,0 +1,21 @@
+.pointer{
+    cursor: pointer;
+}
+
+.pointer:hover{
+    color:#0275d8;
+}
+
+svg{
+    width: 48px;
+    height: 48px;
+}
+
+svg:hover{
+    color: #0275d8;
+}
+
+.border{
+    border: solid #333 1px;
+    border-radius: 10px;    
+}
