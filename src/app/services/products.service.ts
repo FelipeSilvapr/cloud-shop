@@ -45,4 +45,12 @@ export class ProductsService {
     const url = `${this.productUrl}/${product.id}`;
     return this.http.put(url, product, httpOptions)
   }
+
+  addCategory( category: Category): Observable<Category>{
+    return this.http.post<Category>(this.categoryUrl, category, httpOptions)
+  }
+
+  addProduct( product: Product): Observable<Product>{
+    return this.http.post<Product>(this.productUrl, product, httpOptions)
+  }
 }
