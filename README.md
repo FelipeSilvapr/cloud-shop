@@ -1,27 +1,36 @@
 # CloudShop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
-## Development server
+## Como Executar
+`git clone https://github.com/FelipeSilvapr/cloud-shop.git`
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+`cd cloud-shop`
 
-## Code scaffolding
+Tenha o `node` instalado.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+`npm install`
 
-## Build
+`npm run json:server`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+`ng serve -o`
 
-## Running unit tests
+## Estudo
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+A estratégia adotada para aprender o conteúdo foi ,primeiramente dar uma visão geral nos principais fundamentos e características do angular e json server, a fim de ter ideias de como abordar as questões do desenvolvimento da aplicação. Depois focar em assuntos específicos para atingir os seguintes objetivos: 
 
-## Running end-to-end tests
+1. criar um componente inicial para renderizar dados das categorias do `json-server`
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+2. fazer das categoriais links para os produtos 
 
-## Further help
+3. fazer dos produtos links para uma página de edição de seus dados
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+4. submeter estes dados para o `json-server`
+
+5. adicionar a funcionalidade de novos cadastros de categorias e produtos
+
+6. validação no front-end dos dados a serem enviados 
+
+7. organizar os layouts e meios de navegação
+
+
+Foi uma experiência bem interessante, descobri duas ferramentas incríveis para o desenvolvimento web, e tive um grande aprendizado em um curto período de tempo, focado em como resolver o problema a frente da forma mais eficiente possível em relação ao tempo.
